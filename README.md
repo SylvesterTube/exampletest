@@ -1,16 +1,28 @@
 # exampletest
 
-A new Flutter project.
+#خطواط التعديل
+* تستطيع الاستفادة من هذا المشروع  
+* بحل مشاكل ملف الاندرويد او ملف الويب او ملف ios 
+* كل ماعليك فعله بعد التحميل نسخ ملف
+  
+* **[lib](lib)** و **[pubspec.yaml](pubspec.yaml)**
+* ولصقها هنا مع تعديل الباكج نيم 
+* من المسارات هذه
+  
 
-## Getting Started
+* **/android/app/src/main/AndroidManifest.xml,**---[here](android/app/src/main/AndroidManifest.xml)
+* **/android/app/src/profile/AndroidManifest.xml,**---[here](android/app/src/profile/AndroidManifest.xml)
+* **/android/app/src/debug/AndroidManifest.xml,**---[here](android/app/src/debug/AndroidManifest.xml)
+* **/android/app/build.gradle,**---[here](android/app/build.gradle)
+* **/android/app/src/main/kotlin/com/example/your package name/ MainActivity.kt,**---[here](android/app/src/main/kotlin/com/example)
 
-This project is a starting point for a Flutter application.
+لتغير اسم التطبيق
 
-A few resources to get you started if this is your first Flutter project:
+* **/android/app/src/main/AndroidManifest.xml ,**---[here](android/app/src/main/AndroidManifest.xml)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+هذا المسار لاضافة ملف فاير بيس للاندرويد
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **/android/app/ google=services.json ,**---[here](android/app)
+
+
+##لا تنسانا يا أخي من الدعاء 
